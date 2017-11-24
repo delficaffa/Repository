@@ -1,0 +1,9 @@
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\bin\Debug\Servicios.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\bin\Debug\DataToTestLinq.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\bin\Debug\DataToTestLinq.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\obj\Debug\Servicios.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\bin\Debug\Servicios.dll.config
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\bin\Debug\Servicios.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\obj\Debug\Servicios.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\Servicios\obj\Debug\Servicios.csprojResolveAssemblyReference.cache

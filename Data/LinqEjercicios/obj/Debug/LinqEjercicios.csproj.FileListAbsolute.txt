@@ -1,0 +1,12 @@
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\LinqEjercicios.exe.config
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\LinqEjercicios.exe
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\LinqEjercicios.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\DataToTestLinq.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\DataToTestLinq.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\obj\Debug\LinqEjercicios.csprojResolveAssemblyReference.cache
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\obj\Debug\LinqEjercicios.csproj.CoreCompileInputs.cache
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\obj\Debug\LinqEjercicios.exe
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\obj\Debug\LinqEjercicios.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\Servicios.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\Servicios.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\LinqEjercicios\bin\Debug\Servicios.dll.config

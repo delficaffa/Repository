@@ -1,0 +1,6 @@
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\bin\Debug\DataToTestLinq.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\bin\Debug\DataToTestLinq.pdb
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\obj\Debug\DataToTestLinq.csprojResolveAssemblyReference.cache
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\obj\Debug\DataToTestLinq.csproj.CoreCompileInputs.cache
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\obj\Debug\DataToTestLinq.dll
+\\fsitsv17\mos-alumnos\alumno\Delfina Caffa\REPO\Data\DataToTestLinq\obj\Debug\DataToTestLinq.pdb
