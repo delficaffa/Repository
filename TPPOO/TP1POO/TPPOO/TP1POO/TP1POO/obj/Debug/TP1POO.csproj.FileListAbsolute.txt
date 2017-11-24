@@ -1,0 +1,14 @@
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.csprojResolveAssemblyReference.cache
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.csproj.CoreCompileInputs.cache
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.exe.config
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.exe
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.pdb
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.exe
+C:\Users\Delfii\Desktop\.NET Accenture\Repository\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.pdb
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.exe.config
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.exe
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\bin\Debug\TP1POO.pdb
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.exe
+C:\Users\Usuario\Desktop\Repository-master\TPPOO\TP1POO\TP1POO\obj\Debug\TP1POO.pdb
